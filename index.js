@@ -10,7 +10,7 @@ return string.toLowerCase()
 
 //3
 function logShout(string){
-  console.log(string)
+  console.log(string.toUpperCase)
 }
 
 }
