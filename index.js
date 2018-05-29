@@ -14,10 +14,11 @@ function logShout(string){
 }
 
 function sayHiToGrandma (string){ 
-var responseUpperCase = string.toUpperCase()
-
-if (responseUpperCase != 'HELLO'){
+var response = string
+if (string.toUpperCase != 'HELLO'){
   console.log("I can\'t hear you!")
+} else if (responseUpperCase === "HELLO"){
+  
 }
      
 }
