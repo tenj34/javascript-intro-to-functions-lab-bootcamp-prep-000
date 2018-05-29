@@ -13,12 +13,7 @@ function logShout(string){
   
 }
 
-function sayHiToGrandma (string){ 
-var response = string
-if (string.toLowerCase != 'HELLO'){
-  console.log("I can\'t hear you!")
 }
-     
-}
+
 
 
