@@ -14,7 +14,10 @@ function logShout(string){
 }
 
 function sayHiToGrandma (string){ 
+var responseUpperCase = string.toUpperCase()
 
+if (responseUpperCase === 'HELLO')
+  
 }
 
 
